@@ -14,23 +14,23 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          Hello! My name is Baileigh and I enjoy 
+          creating things for the web.
+          My interest in web development started back 
+          as far as I can remember. Being younger in the age of social media 
+          definitely fueled my fire of always wanting to create websites for
+          my little corner of the internet and the people in it. 
+
+          I never thought its somthing that i'd find myself taking serious
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          I thought I would spend my entire professional life being a teacher 👩‍🏫 , but now i've become 
+          a full stack software engineer. The difference is drastic between the two but if there's anything
+          amazing about programming, it is the ability to create anything that you have been idealizing. It's 
+          challenging, fulfilling, and (at times) fun.
         </p>
       </div>
     </div>
