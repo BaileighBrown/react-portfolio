@@ -3,8 +3,8 @@ import youtubeClone from "../assets/portfolio/youtubeclone.png";
 import chattered from "../assets/portfolio/chattered.png";
 import Crescendo from "../assets/portfolio/Crescendo.png";
 import oldPortfolio from "../assets/portfolio/oldPortfolio.png";
-import tipCalculator from "../assets/portfolio/tipCalculator.png";
 import heroApi from "../assets/portfolio/heroApi.png";
+import letStudy from "../assets/portfolio/letStudy.gif"
 
 const Portfolio = () => {
   const portfolios = [
@@ -28,7 +28,7 @@ const Portfolio = () => {
     },
     {
       id: 5,
-      src: tipCalculator,
+      src: letStudy,
     },
     {
       id: 6,
